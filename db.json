@@ -8,70 +8,60 @@
         "gameId": 1,
         "id": 1,
         "word": "dog",
-        "url": "https://via.placeholder.com/600/92c952",
         "imageUrl": "https://via.placeholder.com/150/92c952"
       },
       {
         "gameId": 1,
         "id": 2,
         "word": "cat",
-        "url": "https://via.placeholder.com/600/771796",
         "imageUrl": "https://via.placeholder.com/150/771796"
       },
       {
         "gameId": 1,
         "id": 3,
         "word": "cow",
-        "url": "https://via.placeholder.com/600/24f355",
         "imageUrl": "https://via.placeholder.com/150/24f355"
       },
       {
         "gameId": 1,
         "id": 4,
         "word": "lion",
-        "url": "https://via.placeholder.com/600/d32776",
         "imageUrl": "https://via.placeholder.com/150/d32776"
       },
       {
         "gameId": 1,
         "id": 5,
         "word": "fish",
-        "url": "https://via.placeholder.com/600/f66b97",
         "imageUrl": "https://via.placeholder.com/150/f66b97"
       },
       {
         "gameId": 1,
         "id": 6,
         "word": "crocodile",
-        "url": "https://via.placeholder.com/600/56a8c2",
         "imageUrl": "https://via.placeholder.com/150/56a8c2"
       },
       {
         "gameId": 1,
         "id": 7,
         "word": "bat",
-        "url": "https://via.placeholder.com/600/b0f7cc",
         "imageUrl": "https://via.placeholder.com/150/b0f7cc"
       },
       {
         "gameId": 1,
         "id": 8,
         "word": "ant",
-        "url": "https://via.placeholder.com/600/54176f",
         "imageUrl": "https://via.placeholder.com/150/54176f"
       },
       {
         "gameId": 1,
         "id": 9,
         "word": "horse",
-        "url": "https://via.placeholder.com/600/51aa97",
         "imageUrl": "https://via.placeholder.com/150/51aa97"
       },
       {
         "gameId": 1,
         "id": 10,
         "word": "whale",
-        "url": "https://via.placeholder.com/600/810b14",
         "imageUrl": "https://via.placeholder.com/150/810b14"
       }
     ]
@@ -85,63 +75,54 @@
         "gameId": 2,
         "id": 51,
         "word": "Alline",
-        "url": "https://via.placeholder.com/600/8e973b",
         "imageUrl": "https://via.placeholder.com/150/8e973b"
       },
       {
         "gameId": 2,
         "id": 52,
         "word": "Andrei",
-        "url": "https://via.placeholder.com/600/121fa4",
         "imageUrl": "https://via.placeholder.com/150/121fa4"
       },
       {
         "gameId": 2,
         "id": 53,
         "word": "Janice",
-        "url": "https://via.placeholder.com/600/6efc5f",
         "imageUrl": "https://via.placeholder.com/150/6efc5f"
       },
       {
         "gameId": 2,
         "id": 54,
         "word": "Willian",
-        "url": "https://via.placeholder.com/600/aa8f2e",
         "imageUrl": "https://via.placeholder.com/150/aa8f2e"
       },
       {
         "gameId": 2,
         "id": 55,
         "word": "Haruo",
-        "url": "https://via.placeholder.com/600/5e04a4",
         "imageUrl": "https://via.placeholder.com/150/5e04a4"
       },
       {
         "gameId": 2,
         "id": 56,
         "word": "Eduardo",
-        "url": "https://via.placeholder.com/600/f9f067",
         "imageUrl": "https://via.placeholder.com/150/f9f067"
       },
       {
         "gameId": 2,
         "id": 57,
         "word": "Luiz",
-        "url": "https://via.placeholder.com/600/95acce",
         "imageUrl": "https://via.placeholder.com/150/95acce"
       },
       {
         "gameId": 2,
         "id": 58,
         "word": "Telma",
-        "url": "https://via.placeholder.com/600/cde4c1",
         "imageUrl": "https://via.placeholder.com/150/cde4c1"
       },
       {
         "gameId": 2,
         "id": 59,
         "word": "Gabriel",
-        "url": "https://via.placeholder.com/600/a46a91",
         "imageUrl": "https://via.placeholder.com/150/a46a91"
       }
     ]
@@ -155,56 +136,48 @@
         "gameId": 3,
         "id": 101,
         "word": "blue",
-        "url": "https://via.placeholder.com/600/e743b",
         "imageUrl": "https://via.placeholder.com/150/e743b"
       },
       {
         "gameId": 3,
         "id": 102,
         "word": "pink",
-        "url": "https://via.placeholder.com/600/a393af",
         "imageUrl": "https://via.placeholder.com/150/a393af"
       },
       {
         "gameId": 3,
         "id": 103,
         "word": "white",
-        "url": "https://via.placeholder.com/600/35cedf",
         "imageUrl": "https://via.placeholder.com/150/35cedf"
       },
       {
         "gameId": 3,
         "id": 104,
         "word": "purple",
-        "url": "https://via.placeholder.com/600/313b40",
         "imageUrl": "https://via.placeholder.com/150/313b40"
       },
       {
         "gameId": 3,
         "id": 105,
         "word": "red",
-        "url": "https://via.placeholder.com/600/eaf2e1",
         "imageUrl": "https://via.placeholder.com/150/eaf2e1"
       },
       {
         "gameId": 3,
         "id": 106,
         "word": "yellow",
-        "url": "https://via.placeholder.com/600/b1f841",
         "imageUrl": "https://via.placeholder.com/150/b1f841"
       },
       {
         "gameId": 3,
         "id": 107,
         "word": "green",
-        "url": "https://via.placeholder.com/600/50d332",
         "imageUrl": "https://via.placeholder.com/150/50d332"
       },
       {
         "gameId": 3,
         "id": 108,
         "word": "black",
-        "url": "https://via.placeholder.com/600/627495",
         "imageUrl": "https://via.placeholder.com/150/627495"
       }
     ]
@@ -218,42 +191,36 @@
         "gameId": 4,
         "id": 151,
         "word": "Mickey",
-        "url": "https://via.placeholder.com/600/1d2ad4",
         "imageUrl": "https://via.placeholder.com/150/1d2ad4"
       },
       {
         "gameId": 4,
         "id": 152,
         "word": "Simba",
-        "url": "https://via.placeholder.com/600/a01c5b",
         "imageUrl": "https://via.placeholder.com/150/a01c5b"
       },
       {
         "gameId": 4,
         "id": 153,
         "word": "Doug",
-        "url": "https://via.placeholder.com/600/9da52c",
         "imageUrl": "https://via.placeholder.com/150/9da52c"
       },
       {
         "gameId": 4,
         "id": 154,
         "word": "Bob",
-        "url": "https://via.placeholder.com/600/7f330f",
         "imageUrl": "https://via.placeholder.com/150/7f330f"
       },
       {
         "gameId": 4,
         "id": 155,
         "word": "Woody",
-        "url": "https://via.placeholder.com/600/877cd8",
         "imageUrl": "https://via.placeholder.com/150/877cd8"
       },
       {
         "gameId": 4,
         "id": 156,
         "word": "Nala",
-        "url": "https://via.placeholder.com/600/11af10",
         "imageUrl": "https://via.placeholder.com/150/11af10"
       }
     ]
@@ -267,35 +234,30 @@
         "gameId": 5,
         "id": 201,
         "word": "Nick",
-        "url": "https://via.placeholder.com/600/250289",
         "imageUrl": "https://via.placeholder.com/150/250289"
       },
       {
         "gameId": 5,
         "id": 202,
         "word": "Theo",
-        "url": "https://via.placeholder.com/600/6a0f83",
         "imageUrl": "https://via.placeholder.com/150/6a0f83"
       },
       {
         "gameId": 5,
         "id": 203,
         "word": "Costelinha",
-        "url": "https://via.placeholder.com/600/3a5c29",
         "imageUrl": "https://via.placeholder.com/150/3a5c29"
       },
       {
         "gameId": 5,
         "id": 204,
         "word": "Rabico",
-        "url": "https://via.placeholder.com/600/e4cc33",
         "imageUrl": "https://via.placeholder.com/150/e4cc33"
       },
       {
         "gameId": 5,
         "id": 205,
         "word": "Sarandu",
-        "url": "https://via.placeholder.com/600/dc17bf",
         "imageUrl": "https://via.placeholder.com/150/dc17bf"
       }
     ]
@@ -309,56 +271,48 @@
         "gameId": 6,
         "id": 251,
         "word": "Mike",
-        "url": "https://via.placeholder.com/600/afc5c2",
         "imageUrl": "https://via.placeholder.com/150/afc5c2"
       },
       {
         "gameId": 6,
         "id": 252,
         "word": "Ana",
-        "url": "https://via.placeholder.com/600/1dc050",
         "imageUrl": "https://via.placeholder.com/150/1dc050"
       },
       {
         "gameId": 6,
         "id": 253,
         "word": "Edmund",
-        "url": "https://via.placeholder.com/600/bfb73",
         "imageUrl": "https://via.placeholder.com/150/bfb73"
       },
       {
         "gameId": 6,
         "id": 254,
         "word": "Rachel",
-        "url": "https://via.placeholder.com/600/b9a4",
         "imageUrl": "https://via.placeholder.com/150/b9a4"
       },
       {
         "gameId": 6,
         "id": 255,
         "word": "John",
-        "url": "https://via.placeholder.com/600/5a8411",
         "imageUrl": "https://via.placeholder.com/150/5a8411"
       },
       {
         "gameId": 6,
         "id": 256,
         "word": "Ian",
-        "url": "https://via.placeholder.com/600/fd387",
         "imageUrl": "https://via.placeholder.com/150/fd387"
       },
       {
         "gameId": 6,
         "id": 257,
         "word": "Francesca",
-        "url": "https://via.placeholder.com/600/4fa7ef",
         "imageUrl": "https://via.placeholder.com/150/4fa7ef"
       },
       {
         "gameId": 6,
         "id": 258,
         "word": "Damien",
-        "url": "https://via.placeholder.com/600/c29554",
         "imageUrl": "https://via.placeholder.com/150/c29554"
       }
     ]
